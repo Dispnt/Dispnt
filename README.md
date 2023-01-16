@@ -2,6 +2,6 @@
 
 - I'm fofu.
 - ⌨️ Able to do some simple Frontend, Backend, Network Maintenance, Art Design stuff, etc.
-- 🌱 Currently learning “为人师表” : Scratch
+- 🌱 Currently learning “为人师表”
 - <img src="https://raw.githubusercontent.com/dispnt/dispnt/master/img/twitter.svg" /> Follow me on [Twitter](https://twitter.com/Dispnt)
 
